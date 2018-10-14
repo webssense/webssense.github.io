@@ -585,8 +585,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1599,10 +1599,6 @@ body {
 .cid-r6tATvj81I .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-r6tATvj81I .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-r6tATvj81I .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-r6tATvj81I .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r6tATvj81I .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1697,10 +1693,6 @@ body {
   .cid-r6tATvj81I .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-r6tATvj81I .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-r6tATvj81I .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-r6tATvj81I .navbar-collapse.collapsing .navbar-buttons,
   .cid-r6tATvj81I .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1762,7 +1754,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r6tB4F8DyV {
-  background-image: url("../../../assets/images/03.jpg");
+  background-image: url("../../../assets/images/casey-horner-1072624-unsplash-2000x2996.jpg");
 }
 .cid-r6tB4F8DyV .icons-media-container {
   display: flex;
@@ -2078,7 +2070,7 @@ body {
   }
 }
 .cid-r6tFqtTh7s .mbr-text {
-  color: #767676;
+  color: #0f7699;
 }
 .cid-r6tFyEK3yh {
   padding-top: 60px;
@@ -2098,6 +2090,12 @@ body {
 .cid-r6tFyEK3yh .mbr-text {
   color: #767676;
 }
+.cid-r6tFyEK3yh .mbr-text B {
+  color: #55b4d4;
+}
+.cid-r6tFyEK3yh .mbr-text P {
+  color: #0f7699;
+}
 .cid-r6tFAETygP {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2114,7 +2112,7 @@ body {
   }
 }
 .cid-r6tFAETygP .mbr-text {
-  color: #767676;
+  color: #0f7699;
 }
 .cid-r6tFC2v5jQ {
   padding-top: 60px;
@@ -2132,7 +2130,7 @@ body {
   }
 }
 .cid-r6tFC2v5jQ .mbr-text {
-  color: #767676;
+  color: #0f7699;
 }
 .cid-r6tBEuSQ82 {
   padding-top: 90px;
